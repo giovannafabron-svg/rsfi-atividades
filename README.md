@@ -2,4 +2,4 @@
 
 **Nome completo:** GIOVANNA MARZANATTI FABRON
 
-Repositório de entrega das atividades avaliativas de Computação em Nuvem e Virtualização.
+Repositório de entrega das atividades avaliativas de Redes Sem Fio
