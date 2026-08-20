@@ -16,7 +16,7 @@
 
 **2.** Uma empresa quer cobrir toda a área de um prédio de escritórios, com dezenas a poucas centenas de metros de alcance, usando múltiplos pontos de acesso para que os funcionários se conectem com notebooks e celulares. Qual categoria de rede sem fio descreve esse cenário?
 
-- [a] a) WLAN, pois cobre a área de um prédio ou campus com alcance de dezenas a centenas de metros
+- [x] a) WLAN, pois cobre a área de um prédio ou campus com alcance de dezenas a centenas de metros
 - [ ] b) WPAN, pois esse alcance de dezenas a centenas de metros seria típico de redes pessoais de curto alcance
 - [ ] c) WWAN, pois cobrir um único prédio exigiria torres de celular espalhadas pela cidade inteira
 - [ ] d) WMAN, pois essa categoria seria reservada exclusivamente para conectar prédios de campi universitários
